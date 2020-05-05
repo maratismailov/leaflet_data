@@ -1,1 +1,1 @@
-web: gunicorn kraken:app
+web: gunicorn sensor_data:app
